@@ -153,6 +153,8 @@ The burning process is completed by sending coins to an ‘eater address’, whi
 
 The founding members of Bidesk comprise of Techno Business Executives, IT Architects, blockchain developers, investors with profound knowledge of regulations, and current crypto markets and its operating ambience, order matching processes and trade algorithms. With an average of more than 15-years of professional experience, the team has significant exposure to trading, business development, planning, finance, database dev ops, quant-trading and business management.
 
+![](src/management-team.png)
+
 ## Risks
 
 Loss of access to your BDK tokens: Once tokens have been distributed to the relevant party they will have sole access to their tokens, via their unique credentials. The loss of these credentials will result in the loss of BDK. Best practice guidelines suggest that buyers should always store their credentials securely, in multiple backup locations that are geographically diverse from one’s usual location.
