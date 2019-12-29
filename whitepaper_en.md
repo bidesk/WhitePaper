@@ -153,7 +153,9 @@ The burning process is completed by sending coins to an ‘eater address’, whi
 
 The founding members of Bidesk comprise of Techno Business Executives, IT Architects, blockchain developers, investors with profound knowledge of regulations, and current crypto markets and its operating ambience, order matching processes and trade algorithms. With an average of more than 15-years of professional experience, the team has significant exposure to trading, business development, planning, finance, database dev ops, quant-trading and business management.
 
-![](src/management-team.png)
+
+<img src="src/management-team" align="center">
+
 
 ## Risks
 
