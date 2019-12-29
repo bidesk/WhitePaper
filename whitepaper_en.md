@@ -25,7 +25,7 @@
 * [The Burn of Bidesk Token (BDK)](#the-burn-of-bidesk-token)
 * [Management Team](#management-team)
 * [Risks](#risks)
-* [Disclaimer](Disclaimer)
+* [Disclaimer](#disclaimer)
 
 ## Overview of Bidesk Exchange
 
@@ -180,3 +180,9 @@ This white paper outlines a working project in its advanced stages of developmen
 This document serves only to convey the contained information.
 
 This document does not contain any investment advice.
+
+This, and other related documents ascribe to Bidesk token offering. This whitepaper also covers the development and use of Bidesk exchange, ecosystem by stakeholders and participants.
+
+We strongly advise you to carefully read, acknowledge, and assess the risks associated with investment and purchase of any cryptocurrency.
+
+If there are any questions regarding what has been discussed, the Bidesk team can be reached at [email@bidesk.com](mailto:email@bidesk.com).
