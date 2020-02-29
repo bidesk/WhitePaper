@@ -3,6 +3,9 @@
 <i>This document is for informational purposes only and does not constitute an offer or solicitation to sell shares, securities and/or digital assets of any company.</i>
 ## Changelog
 
+* 1.04 2020-02-29
+  * Whitepaper version 1.04
+
 * 1.03 - 2019-11-27
   * Whitepaper version 1.03
  
