@@ -35,7 +35,7 @@ The cryptocurrency market is one of the most rapidly growing asset classes in th
 
 The cryptocurrency market is constantly changing, as are the needs of its users, as such, new demands are constantly being created.
 
-Bidesk exchange is a digital asset trading platform that has been created to provide a secure and safe environment for trading high quality tokens and coins whilst immersing users in a first class experience. We ensure this experience is possible for all types of users; from beginners buying their first cryptocurrency, to professional traders and hedge funds, by utilizing our advanced matching engine, 24/7 customer support, and high-grade financial support services which are always on hand to help.
+Bidesk exchange is a digital asset trading platform that has been built to provide a secure and safe environment for trading high quality tokens and coins whilst providing the best user experience to its users. With the advanced matching engine, all types of users; from beginners who're buying their first cryptocurrency, to the professional traders and hedge funds, are ensured of having the best trading experience. Bidesk also provide 24/7 customer support service which is always on hand to help, users are made certain of prompt response for any issue.
 
 ### Challenges Today
 
@@ -135,13 +135,13 @@ Bidesk token holders can expect to receive airdrops from projects cooperating wi
 ## Token Economics
 
 * Max supply: 100,000,000 BDK
-* Public Sale: Tokens comprise 2% of the total supply. Public sale token price is $0.08.
+* Public Sale: Tokens comprise 3% of the total supply. Public sale token price is $0.08.
 * Private Sale: Tokens comprise 30% of the total supply. Private sale token price is $0.09. Vesting schedule is as follows: 1 month lock-up after TGE, about 1.67% per month over the following 18 months.
 * Seed Sale: Tokens comprise 18% of the total supply. Seed sale token price is $0.08. Vesting schedule is as follows: 3 months lock-up after TGE, 1% per month over the following 18 months.
 * Team: Tokens comprise 10% of the total supply. Vesting schedule is as follows: 12 months lock-up after TGE, about 0.21% per month over the following 48 months.
 * Foundation: Tokens comprise 20% of the total supply. Vesting schedule is as follows: 12 months lock-up after TGE, about 0.42% per month over the following 48months.
 * Ecosystem: Tokens comprise 10% of the total supply. Vesting schedule is as follows: 12 months lock-up after TGE, about 0.21% per month over the following 48 months.
-* Incentives: Tokens comprise 10% of the total supply. Vesting schedule is as follows: 3 months lock-up, about 0.42% per month over the following 24 months.
+* Incentives: Tokens comprise 9% of the total supply. Vesting schedule is as follows: 3 months lock-up, about 0.42% per month over the following 24 months.
 
 ## The Burn of Bidesk Token (BDK)
 
